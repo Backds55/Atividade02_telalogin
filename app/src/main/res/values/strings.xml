@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApp_tela_login2</string>
+    <string name="sign_up_now">Sign Up Now</string>
+    <string name="need_an_account">NEED AN ACCOUNT?</string>
+    <string name="or">OR</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+</resources>
